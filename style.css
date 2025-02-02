@@ -200,6 +200,10 @@ body {
 	background-color: #1d1d1fee;
 }
 
+.coupon-btn:hover {
+	background-color: #1d1d1fee;
+}
+
 .total-details {
 	margin-top: 15px;
 	display: flex;
@@ -307,6 +311,14 @@ body {
 	color: var(--white);
 	border-radius: 10px;
 	min-width: 10rem;
+}
+
+.form-btn:active {
+	background-color: #1d1d1fee;
+}
+
+.form-btn:hover {
+	background-color: #1d1d1fee;
 }
 
 @media only screen and (min-width: 480px) {
