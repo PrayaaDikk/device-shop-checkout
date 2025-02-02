@@ -30,6 +30,7 @@ const cartItems = document.getElementById("cart-items");
 const subTotalHtml = document.getElementById("sub-total");
 const taxHtml = document.getElementById("tax");
 const totalHtml = document.getElementById("total");
+const select = document.getElementById("select")
 
 itemsInfo.innerHTML = `${products.length} ITEMS`;
 
